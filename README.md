@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tiagofls
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning medical informatics.
+- 💞️ I’m looking to collaborate on many projects.
+- 📫 How to reach me: tiagosantos350@sapo.pt
