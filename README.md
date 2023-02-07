@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiagofls
-- 👀 I’m interested in programming.
+- 👀 I’m interested in challenging projects. I have experience in web and mobile programming.
 - 🌱 I’m currently learning medical informatics.
-- 💞️ I’m looking to collaborate on many projects.
+- 💞️ I’m looking to collaborate on many projects as possible, to keep evolving.
 - 📫 How to reach me: tiagosantos350@sapo.pt
