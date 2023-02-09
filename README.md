@@ -34,7 +34,7 @@ I'm Tiago, a 25 years old front-end and mobile developer, from Portugal.
 </ul>
 <h3>Design Tools🖌</h3>
 <ul>
-  <li>Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Adobe XD, Figma, Canva, Uizard/li>
+  <li>Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Adobe XD, Figma, Canva, Uizard</li>
 </ul>
 <h3>Other languages i have made contact with🎉</h3>
 <ul>
