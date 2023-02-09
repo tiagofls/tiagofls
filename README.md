@@ -44,6 +44,12 @@ I'm Tiago, a 25 years old front-end and mobile developer, from Portugal.
 <h1> Contacts📬 </h1>
 <ul>
   <li>
+    <a href="mailto:tiagosantos350@sapo.pt"> @Email </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/tiago-santos-40b0541b7"> @LinkedIn </a>
+  </li>
+  <li>
     <a href="https://wa.me/351938765839" target="_blank">@WhatsApp</a>
   </li>
   <li>
