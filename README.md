@@ -1,4 +1,4 @@
-![](https://github.com/tiagofls/mythings/blob/main/text.gif)
+![](https://github.com/tiagofls/mythings/blob/main/Vanilla-1.8s-281px%20(1).gif)
 ___
 <h1> Hey!👋 </h1> 
 I'm Tiago, a 25 years old front-end and mobile developer, from Portugal.
