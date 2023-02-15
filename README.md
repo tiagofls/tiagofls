@@ -5,7 +5,7 @@ I'm Tiago, a 25 years old front-end and mobile developer, from Portugal.
 <div>
   <ul>
     <li>🧑‍💻 Front-End developer at <a href="https://www.glintt.com/pt/Paginas/home.aspx", target = "_blank">Glintt HealthCare Solutions S.A.</a></li>
-    <li>🥷 Passionate freelancer, at mobile and front-end programming</li>
+    <li>🥷 Passionate freelancer at mobile and front-end programming</li>
   </ul>
 </div>
 
